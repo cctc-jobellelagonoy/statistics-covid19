@@ -16,6 +16,7 @@
 
 </head>
 <body class="theme-light">
+    <img src="images/banner.jpg" style="border-radius: 50px; width: 100%; margin: auto; padding: 20px">
 	<div id="app">
 		<div class="headerr">
 			<h1>Corona Virus 2019 Statistics</h1>
@@ -123,9 +124,11 @@
 
 			
 		</div>
-		<div class="footerr">
+		<div class="footerr" style="text-align: center; font-weight: bold">
 			<hr>
-			For educational purposes only.
+			In Partial Fulfillment of the requirements for the subject Application Development and Emerging Technologies
+			<br>
+			Jobelle F. Lagonoy
 		</div>
 	</div>
 	<script src="js/myVue.js"></script>
